@@ -12,8 +12,8 @@ BLOB='https://convaisharables.blob.core.windows.net/leaderboard/value/vis_featur
 for FEAT in '2d_resnet' 'slowfast'; do
     if [ ! -d $VIS/$FEAT ] ; then
         wget $BLOB/$DATASET/$FEAT.tar -P $VIS
-        tar -xvf $VIS$FEAT.tar -C $VIS
-        rm -rf $VIS$FEAT.tar
+        tar -xvf $VIS/$FEAT.tar -C $VIS
+        rm -rf $VIS/$FEAT.tar
     fi
 done
 # info files
