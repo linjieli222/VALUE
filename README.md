@@ -1,7 +1,7 @@
 # Datat Release of VALUE (Video And Language Understanding Evaluation) Leaderboard
 This is the official data release repository of [VALUE Leaderboard]().
 This repository currently supports data downloading of
-[TVR](https://tvr.cs.unc.edu/), [TVQA](http://tvqa.cs.unc.edu/), [TVC](https://tvr.cs.unc.edu/tvc.html),
+[TVQA](http://tvqa.cs.unc.edu/), [TVR](https://tvr.cs.unc.edu/), [TVC](https://tvr.cs.unc.edu/tvc.html),
 [VIOLIN](https://github.com/jimmy646/violin),
 [VLEP](https://github.com/jayleicn/VideoLanguageFuturePred#videolanguagefutureprediction), 
 [How2R and How2QA](https://github.com/ych133/How2R-and-How2QA).
@@ -50,7 +50,7 @@ We use VIOLIN as an end-to-end example for using this code base.
 
 ## Other Tasks
 
-### TVR, TVQA and TVC
+### TVQA, TVR and TVC
 1. Download raw annotations.
     ```bash
     bash download/download_tv_annotations.sh $PATH_TO_STORAGE
