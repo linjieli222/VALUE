@@ -83,18 +83,6 @@ We use VIOLIN as an end-to-end example for using this code base.
 2. Download visual features.    
    Features coming soon ....
 
-## Citation
-
-If you find this code useful for your research, please consider citing:
-```
-@inproceedings{li2020hero,
-  title={HERO: Hierarchical Encoder for Video+ Language Omni-representation Pre-training},
-  author={Li, Linjie and Chen, Yen-Chun and Cheng, Yu and Gan, Zhe and Yu, Licheng and Liu, Jingjing},
-  booktitle={EMNLP},
-  year={2020}
-}
-```
-
 ## License
 
 MIT
