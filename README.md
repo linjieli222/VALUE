@@ -6,7 +6,6 @@ This repository currently supports data downloading of
 [VLEP](https://github.com/jayleicn/VideoLanguageFuturePred#videolanguagefutureprediction), 
 [How2R and How2QA](https://github.com/ych133/How2R-and-How2QA).
 
-![Overview of VALUE]()
 
 The visual frame features are extracted using [SlowFast](https://github.com/facebookresearch/SlowFast) and ResNet-152. Feature extraction code is available at [HERO_Video_Feature_Extractor](https://github.com/linjieli222/HERO_Video_Feature_Extractor)
 
